@@ -3,7 +3,9 @@
  *
  *  Fake device type for trying things on
  *
- *  Copyright 2015 Kevin Shuk
+ * Silly little addition to rev the file version
+ * 
+ *  Copyright 2015, 2016 Kevin Shuk
  *
  */
 import groovy.transform.Field
